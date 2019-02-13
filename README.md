@@ -4,7 +4,7 @@
 
 This is a project completed for the Sumo competition hosted by the University of Toronto's Robotics Association. 
 
-##### Technologies
+#### Technologies
 The project utilized the following technologies:
 - Arduino UNO
 - Line sensor
